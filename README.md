@@ -32,3 +32,4 @@ This is the exact workflow for developers at every tech company. Every time you 
 ### Hints and Hurdles
 + Airplane analogy: Process of putting code on Github is similar to a plane taking off: first individual passengers get on, then plane pulls away from the terminal, then takes off
 + Video game analogy: when you hit a certain level, your level is saved, so when you die you don't end the game, you just roll over to that level. commits save the state of your code, so when it breaks you can rewind back to the working version
+<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-git-2' data-visibility='hidden'>View this lesson on Learn.co</a>
